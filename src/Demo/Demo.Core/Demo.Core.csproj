@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;netstandard2.0</TargetFrameworks>
+    <RootNamespace>GMap.NET.Cache.Oracle.Demo</RootNamespace>
+  </PropertyGroup>
+
+</Project>
